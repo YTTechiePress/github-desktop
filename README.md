@@ -1,11 +1,11 @@
 # github-desktop
 Learning Github Desktop
 
-Glossary
+## Glossary
 
-Branch – A branch is any set of code changes that has been given a unique name. It is a workspace created for a specific set of changes, and the name should describe the changes that are being made in that job.
+**Branch** – A branch is any set of code changes that has been given a unique name. It is a workspace created for a specific set of changes, and the name should describe the changes that are being made in that job.
 
-Clone – Forked files live in your GitHub account (origin), but you work on them on your local machine. You can do this through GitHub by cloning the files from origin to local.
+**Clone** – Forked files live in your GitHub account (origin), but you work on them on your local machine. You can do this through GitHub by cloning the files from origin to local.
 
 Fetch – This is the term used to describe downloading any changed files from a remote repository into your local repository. Note that after this process you still need to merge them into your own local files.
 
